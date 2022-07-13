@@ -1,0 +1,23 @@
+
+
+
+
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+
+
+.contenedor{
+   
+    background-color: rgba(38, 166, 246, 0.688);
+}
+
+ i{
+    font-size:30px;
+    color: rgb(0, 68, 255);
+    
+}
